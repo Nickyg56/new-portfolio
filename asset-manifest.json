@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nickyg56/new-portfolio/static/css/main.099fe081.chunk.css",
+    "main.js": "/Nickyg56/new-portfolio/static/js/main.02bd4946.chunk.js",
+    "main.js.map": "/Nickyg56/new-portfolio/static/js/main.02bd4946.chunk.js.map",
+    "runtime-main.js": "/Nickyg56/new-portfolio/static/js/runtime-main.f4849126.js",
+    "runtime-main.js.map": "/Nickyg56/new-portfolio/static/js/runtime-main.f4849126.js.map",
+    "static/js/2.feb605fb.chunk.js": "/Nickyg56/new-portfolio/static/js/2.feb605fb.chunk.js",
+    "static/js/2.feb605fb.chunk.js.map": "/Nickyg56/new-portfolio/static/js/2.feb605fb.chunk.js.map",
+    "index.html": "/Nickyg56/new-portfolio/index.html",
+    "precache-manifest.d4fb3a1df6e8b65d39485b0e9e5a8b1c.js": "/Nickyg56/new-portfolio/precache-manifest.d4fb3a1df6e8b65d39485b0e9e5a8b1c.js",
+    "service-worker.js": "/Nickyg56/new-portfolio/service-worker.js",
+    "static/css/main.099fe081.chunk.css.map": "/Nickyg56/new-portfolio/static/css/main.099fe081.chunk.css.map",
+    "static/media/BandBridge.png": "/Nickyg56/new-portfolio/static/media/BandBridge.a274428d.png",
+    "static/media/Nick.jpg": "/Nickyg56/new-portfolio/static/media/Nick.2f49c4be.jpg",
+    "static/media/SpacedRep.png": "/Nickyg56/new-portfolio/static/media/SpacedRep.d42a7916.png",
+    "static/media/Sprout.png": "/Nickyg56/new-portfolio/static/media/Sprout.8961eb23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4849126.js",
+    "static/js/2.feb605fb.chunk.js",
+    "static/css/main.099fe081.chunk.css",
+    "static/js/main.02bd4946.chunk.js"
+  ]
+}
