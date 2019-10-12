@@ -10,7 +10,7 @@ function Project(props) {
     <section className='project'>
       <h3 className='project-header'>{props.title}</h3>
       <p className='project-desc'>{props.description}</p>
-      <a href={props.liveLink} className='project-image-link'><img src={props.projectImage} alt={props.imageAlt} className='project-image' /></a>
+      <a href={props.liveLink} className='project-image-link' rel='noopener noreferrer' target='_blank'><img src={props.projectImage} alt={props.imageAlt} className='project-image' /></a>
       <h4 className='tech-list-header'>Technologies:</h4>
       <p className='tech-list'>{props.tech}</p>
       <span className='project-links'>

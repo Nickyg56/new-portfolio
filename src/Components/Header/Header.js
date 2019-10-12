@@ -18,8 +18,8 @@ function Header() {
       </div>
       <nav className='nav-bar'>
         <a href="#projects" className="nav-link">Projects</a>
-        <a href='https://github.com/Nickyg56'><FontAwesomeIcon className='icon-link' color='white' icon={['fab', 'github']} /></a>
-        <a href='https://www.linkedin.com/in/nicholas-gunter-524abb188/'><FontAwesomeIcon className='icon-link' color='white' icon={['fab', 'linkedin']} /></a>
+        <a href='https://github.com/Nickyg56' rel='noopener noreferrer' target='_blank'><FontAwesomeIcon className='icon-link' color='white' icon={['fab', 'github']} /></a>
+        <a href='https://www.linkedin.com/in/nicholas-gunter-524abb188/' rel='noopener noreferrer' target='_blank'><FontAwesomeIcon className='icon-link' color='white' icon={['fab', 'linkedin']} /></a>
         <a href='mailto: ygnick@live.com'><FontAwesomeIcon className='icon-link' color='white' icon={faEnvelopeSquare} /></a>
       </nav>
     </header>
